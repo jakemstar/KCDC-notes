@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80fc6a44d3cd3a8c",
+        "id": "1b63363be321d310",
         "type": "tabs",
         "children": [
           {
-            "id": "a4cb831a1b96ecc8",
+            "id": "80ccdf93dd9b18a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thurs/2201 8.45 am - The Architect's Notebook - A Blueprint for Success.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thurs/2201 8.45 am - The Architect's Notebook - A Blueprint for Success.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thurs/2201 8.45 am - The Architect's Notebook - A Blueprint for Success.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Thurs/2201 8.45 am - The Architect's Notebook - A Blueprint for Success.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4cb831a1b96ecc8",
+  "active": "80ccdf93dd9b18a4",
   "lastOpenFiles": [
+    "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
+    "Thurs/6 2202 3.45pm - Succeeding at Reactive Architecture.md",
+    "Thurs/2 2201 10.00am - 10 Things You Hate About Your API Gateway.md",
+    "Thurs/3 2215a 11.15am - How NOT to Choose a Third-Party Library.md",
+    "Thurs/4 2215c 1.15pm - A tale of two servers; SSR in React & Angular.md",
+    "Thurs/5 2201 2.30pm - Crafting Secure & Performant Cloud-Native Applications.md",
     "Thurs",
-    "Thurs/2201 8.45 am - The Architect's Notebook - A Blueprint for Success.md",
     "KCDC.md",
     "How does this relate.md"
   ]
