@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b63363be321d310",
+        "id": "3c152b711401cae5",
         "type": "tabs",
         "children": [
           {
-            "id": "80ccdf93dd9b18a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fri/1 2215a 8.30am - Effective React State. 10 Years of Lessons Learned.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c333cf6f79fca88e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fri/2 2215c 9.45am - JavaScript. The (Really) Good Parts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a252d989aabdbb2e",
+            "id": "20804f66cb17368d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +20,19 @@
             }
           },
           {
-            "id": "d12388368514a6df",
+            "id": "e5ef0e3ddfb11be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fri/4 2215a 1.00pm - The Rise of AI in Coding. A Deep Dive into GitHub Copilot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95859284aeadb7ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fri/5 2203 2.15pm - Coding a Disability Inclusive World. 3 Stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9838a38152c194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
+                "file": "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
+                "file": "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
+                "file": "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md"
+                "file": "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md"
               }
             }
           }
@@ -207,21 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec9838a38152c194",
+  "active": "e5ef0e3ddfb11be5",
   "lastOpenFiles": [
-    "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md",
-    "Thurs/6 2202 3.45pm - Succeeding at Reactive Architecture.md",
-    "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
     "Fri/5 2203 2.15pm - Coding a Disability Inclusive World. 3 Stories.md",
-    "Fri/4 2215a 1.00pm - The Rise of AI in Coding. A Deep Dive into GitHub Copilot.md",
+    "Fri/6 2211 3.30pm - Enhancing Code Quality and Velocity with ESLint. A Practical Approach.md",
     "Fri/3 2202 11.00am - IAM Frustrated. Understanding AWS Identity and Access Management.md",
+    "Launch Darkly.md",
     "Fri/2 2215c 9.45am - JavaScript. The (Really) Good Parts.md",
     "Fri/1 2215a 8.30am - Effective React State. 10 Years of Lessons Learned.md",
-    "Fri",
-    "Thurs/2 2201 10.00am - 10 Things You Hate About Your API Gateway.md",
-    "Thurs/3 2215a 11.15am - How NOT to Choose a Third-Party Library.md",
+    "Thurs/6 2202 3.45pm - Succeeding at Reactive Architecture.md",
     "Thurs/4 2215c 1.15pm - A tale of two servers; SSR in React & Angular.md",
     "Thurs/5 2201 2.30pm - Crafting Secure & Performant Cloud-Native Applications.md",
+    "Thurs/3 2215a 11.15am - How NOT to Choose a Third-Party Library.md",
+    "Thurs/2 2201 10.00am - 10 Things You Hate About Your API Gateway.md",
+    "Thurs/1 2201 8.45am - The Architect's Notebook - A Blueprint for Success.md",
+    "Fri/4 2215a 1.00pm - The Rise of AI in Coding. A Deep Dive into GitHub Copilot.md",
+    "Fri",
     "Thurs",
     "KCDC.md",
     "How does this relate.md"
